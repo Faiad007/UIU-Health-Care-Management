@@ -1,0 +1,4 @@
+django
+PillowImage
+django-template-maths
+python-dateutil
